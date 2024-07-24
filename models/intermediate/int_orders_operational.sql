@@ -5,6 +5,7 @@ SELECT
     ,om.revenue
     ,om.purchase_cost
     ,om.margin
+    ,om.quantity
     ,sh.shipping_fee
     ,sh.logcost
     ,sh.ship_cost
